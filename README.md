@@ -6,12 +6,14 @@ This dataset supports the the study titled "Technical note: Development of an ex
 ## File List
 The following files are included in this dataset:
 
-* **Alginate_amount_Hokkaido_2026.csv**: Quantification results of alginate concentrations in surface marine sediments collected around Hokkaido, Japan.
 * **Calibration_Data.csv**: Detailed experimental data used to generate calibration curves.
+* **Sampling_Site_Data.csv**: Coordinates (latitude and longitude) and water depth for each station.
+* **Recovery_Conventional_Method.csv**: Validation data for the conventional method.
 * **Ethanol_Test.csv**: Comparative data evaluating the effect of ethanol precipitation on alginate recovery.
-* **Phytoplankton_Test.csv**: Experimental data evaluating the potential interference from phytoplankton samples to verify method selectivity.
-* **Enzymatic_degradation_Test.csv**: Results of enzymatic degradation experiments to confirm that the extracted uronic acids are specifically derived from alginate.
-* **Sampling_Site_Data.csv**: Geographical coordinates and water depth for each sampling station.
+* **Recovery_Modified_Method.csv**: Validation data for the modified method.
+* **Phytoplankton_Test.csv**: Experimental data evaluating potential interference from phytoplankton samples.
+* **Enzymatic_Degradation_Test.csv**: Data from enzymatic degradation experiments used to confirm that the extracted uronic acids are derived from alginate.
+* **Alginate_Amount_Hokkaido_2026.csv**: Quantification results of alginate concentrations in surface marine sediments collected around Hokkaido, Japan.
 
 
 
