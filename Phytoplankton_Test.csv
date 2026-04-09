@@ -1,0 +1,5 @@
+﻿Sample,Collection_Year,Absorbance,Uronic_Acid_Concentration_μg_mL,Extract_Solution_Volume_mL,Dillution_Rate,Yield_mg_sample,
+Phytoplankton_800mL,2018,0.006,0.74,20,20,0.30,
+Phytoplankton_800mL,2019,0.006,0.74,20,20,0.30,
+Phytoplankton_600mL,2021,0.007,0.96,20,20,0.38,
+,,,,,,,

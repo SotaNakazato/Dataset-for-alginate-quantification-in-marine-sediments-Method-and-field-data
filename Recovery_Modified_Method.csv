@@ -1,0 +1,10 @@
+﻿Sample,Absorbance,Alginate_Concentration_μg_mL,Extract_Solution_Volume_mL,Dilution_Rate,Yield_mg_300g,Spike_Recovery_%
+Sediment_300g+Alg-Na_200mg,0.405,77.00,100,20,154.00,77.0
+Sediment_300g+Alg-Na_200mg,0.399,75.89,100,20,151.78,75.9
+Sediment_300g+Alg-Na_200mg,0.435,82.56,100,20,165.11,82.6
+Sediment_300g+Alg-Na_100mg,0.179,35.15,100,20,70.30,70.3
+Sediment_300g+Alg-Na_100mg,0.164,32.37,100,20,64.74,64.7
+Sediment_300g+Alg-Na_100mg,0.193,37.74,100,20,75.48,75.5
+Sediment_300g+Alg-Na_50mg,0.08,16.81,100,20,33.63,67.3
+Sediment_300g+Alg-Na_50mg,0.09,18.67,100,20,37.33,74.7
+Sediment_300g+Alg-Na_50mg,0.092,19.04,100,20,38.07,76.1
