@@ -7,7 +7,6 @@ This dataset supports the the study titled "Technical note: Development of an ex
 The following files are included in this dataset:
 
 * **Calibration_Data.csv**: Detailed experimental data used to generate calibration curves.
-* **Sampling_Site_Data.csv**: Coordinates (latitude and longitude) and water depth for each station.
 * **Recovery_Conventional_Method.csv**: Validation data for the conventional method.
 * **Ethanol_Test.csv**: Comparative data evaluating the effect of ethanol precipitation on alginate recovery.
 * **Recovery_Modified_Method.csv**: Validation data for the modified method.
