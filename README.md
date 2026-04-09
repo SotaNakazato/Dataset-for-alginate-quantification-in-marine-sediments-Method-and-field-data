@@ -11,7 +11,6 @@ The following files are included in this dataset:
 * **Ethanol_Test.csv**: Comparative data evaluating the effect of ethanol precipitation on alginate recovery.
 * **Recovery_Modified_Method.csv**: Validation data for the modified method.
 * **Phytoplankton_Test.csv**: Experimental data evaluating potential interference from phytoplankton samples.
-* **Enzymatic_Degradation_Test.csv**: Data from enzymatic degradation experiments used to confirm that the extracted uronic acids are derived from alginate.
 * **Alginate_Amount_Hokkaido_2026.csv**: Quantification results of alginate concentrations in surface marine sediments collected around Hokkaido, Japan.
 
 
